@@ -29,4 +29,4 @@ Visit the [University of Auckland](https://www.auckland.ac.nz)
 ---
 
 ## Funny GIF
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI4NTZrMTJqZjFzeDBvdHZ4eThoNDg0OTZmamU4aG9taTVxbnduNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fu3OjBQiCs3s0ZuLY3/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI4NTZrMTJqZjFzeDBvdHZ4eThoNDg0OTZmamU4aG9taTVxbnduNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CxqGa4O0LQewU/giphy.gif)
